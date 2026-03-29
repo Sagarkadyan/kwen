@@ -1,0 +1,11 @@
+yt-dlp
+youtube-transcript-api
+faster-whisper
+tqdm
+sentencepiece
+torch
+ctranslate2
+requests
+numpy
+scipy
+librosa
